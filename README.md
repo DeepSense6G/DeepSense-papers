@@ -1,5 +1,5 @@
 ## Available Papers & Implementations with DeepSense 6G dataset
-Below, we provide the list of papers that use DeepMIMO dataset and have an available implementation.
+Below, we provide the list of papers that use [DeepSense 6G dataset](www.deepsense6g.net).
 Modality | Scenario | Paper | Details | Github Repo |
 | :-: | :-: | :-: | :-: | :-: |
 Vision & Position | 5 & 6 | [Vision-Position Multi-Modal Beam Prediction Using Real Millimeter Wave Datasets](https://ieeexplore.ieee.org/document/9771835) | [link](https://deepsense6g.net/position-aided-beam-prediction/)| | 
