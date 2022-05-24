@@ -1,6 +1,6 @@
 ## Available Papers & Implementations with DeepSense 6G dataset
 Below, we provide the list of papers that use [DeepSense 6G dataset](https://deepsense6g.net/).
-Modality | Scenario | Paper | Details | Github Repo |
+Modality | Scenario | Paper | Task Page | Github Repo |
 | :-: | :-: | :-: | :-: | :-: |
 Vision & Position | 5 & 6 | [Vision-Position Multi-Modal Beam Prediction Using Real Millimeter Wave Datasets](https://ieeexplore.ieee.org/document/9771835) | [link](https://deepsense6g.net/position-aided-beam-prediction/)| | 
 Wireless |  |  [Blockage Prediction Using Wireless Signatures: Deep Learning Enables Real-World Demonstration](https://ieeexplore.ieee.org/document/9743549) | [link](https://deepsense6g.net/wireless-signature-based-blockage-prediction/)| | 
