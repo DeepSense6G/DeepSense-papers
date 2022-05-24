@@ -9,3 +9,4 @@ Radar | 30 | [Radar Aided Proactive Blockage Prediction in Real-World Millimeter
 LiDAR|   | [LiDAR-Aided Mobile Blockage Prediction in Real-World Millimeter Wave Systems](https://ieeexplore.ieee.org/document/9771651) | [link](https://deepsense6g.net/lidar-aided-blockage-prediction/) || 
 LiDAR| 8 | [LiDAR Based Beam Prediction and Beam Tracking for mmWave Communications Using Real-World Dataset](https://arxiv.org/pdf/2203.05548.pdf) | [link](https://deepsense6g.net/lidar-aided-beam-prediction/) || 
 Vision | 8 | [Computer Vision Aided Beam Tracking in A Real-World Millimeter Wave Deployment](https://arxiv.org/pdf/2111.14803.pdf) |  | |
+Position | 1-9 | [Position Aided Beam Prediction in the Real World: How Useful GPS Locations Actually Are?](https://arxiv.org/abs/2205.09054) | [link](https://deepsense6g.net/position-aided-beam-prediction/) | [link](https://github.com/jmoraispk/Position-Beam-Prediction) | 
